@@ -47,17 +47,21 @@
 
 강의 시작 화면에 띄우는 접속 QR입니다. (QR 생성: [qrlink 생성기](https://qrlink-eight.vercel.app/))
 
-| 이 학습 허브 | ChatGPT |
-|:---:|:---:|
-| <img src="qr/qr_github_허브.png" width="180"> | <img src="qr/qr_chatgpt.png" width="180"> |
-| github.com/sumilee-pcu/50plus | chatgpt.com |
+| 📘 학습 허브 | 🤖 ChatGPT | 💬 소통 채널(패들렛) |
+|:---:|:---:|:---:|
+| <img src="qr/qr_github_허브.png" width="170"> | <img src="qr/qr_chatgpt.png" width="170"> | <img src="qr/qr_padlet_소통.png" width="170"> |
+| 자료·실습 가이드 | 실습 도구 | 결과 올리고 나누기 |
+
+> **소통 채널:** https://padlet.com/sumileephd/50plus — 실습 결과와 질문을 여기에 올려 함께 봅니다. 로그인 없이 바로 쓸 수 있어요.
 
 ---
 
 ## 시작하기 — ChatGPT 열기
 
-1. `chat.openai.com` 접속 또는 **ChatGPT 앱** 열기
-2. 로그인 (구글 계정으로도 가능) — 안 되면 손을 들어 주세요
+**준비물: 본인 노트북 + 구글 ID 계정**
+
+1. `chatgpt.com` 접속 또는 **ChatGPT 앱** 열기
+2. **‘구글 계정으로 로그인’** 을 누르고 내 구글 계정으로 로그인 — 안 되면 손을 들어 주세요
 3. **‘새 대화’**를 열고 준비 완료!
 
 **막히면 이렇게**
