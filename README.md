@@ -43,6 +43,17 @@
 
 ---
 
+## 📱 QR로 접속하기
+
+강의 시작 화면에 띄우는 접속 QR입니다. (QR 생성: [qrlink 생성기](https://qrlink-eight.vercel.app/))
+
+| 이 학습 허브 | ChatGPT |
+|:---:|:---:|
+| <img src="qr/qr_github_허브.png" width="180"> | <img src="qr/qr_chatgpt.png" width="180"> |
+| github.com/sumilee-pcu/50plus | chatgpt.com |
+
+---
+
 ## 시작하기 — ChatGPT 열기
 
 1. `chat.openai.com` 접속 또는 **ChatGPT 앱** 열기
