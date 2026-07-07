@@ -47,22 +47,22 @@
 
 강의 시작 화면에 띄우는 접속 QR입니다. (QR 생성: [qrlink 생성기](https://qrlink-eight.vercel.app/))
 
-| 📘 학습 허브 | 🤖 ChatGPT | 💬 소통 채널(패들렛) |
+| 📘 학습 허브 | ✨ 제미나이(Gemini) | 💬 소통 채널(패들렛) |
 |:---:|:---:|:---:|
-| <img src="qr/qr_github_허브.png" width="170"> | <img src="qr/qr_chatgpt.png" width="170"> | <img src="qr/qr_padlet_소통.png" width="170"> |
+| <img src="qr/qr_github_허브.png" width="170"> | <img src="qr/qr_gemini.png" width="170"> | <img src="qr/qr_padlet_소통.png" width="170"> |
 | 자료·실습 가이드 | 실습 도구 | 결과 올리고 나누기 |
 
 > **소통 채널:** https://padlet.com/sumileephd/50plus — 실습 결과와 질문을 여기에 올려 함께 봅니다. 로그인 없이 바로 쓸 수 있어요.
 
 ---
 
-## 시작하기 — ChatGPT 열기
+## 시작하기 — 제미나이(Gemini) 열기
 
 **준비물: 본인 노트북 + 구글 ID 계정**
 
-1. `chatgpt.com` 접속 또는 **ChatGPT 앱** 열기
-2. **‘구글 계정으로 로그인’** 을 누르고 내 구글 계정으로 로그인 — 안 되면 손을 들어 주세요
-3. **‘새 대화’**를 열고 준비 완료!
+1. `gemini.google.com` 접속 또는 **제미나이 앱** 열기
+2. 준비물인 **내 구글 계정으로 로그인** — 이미 로그인돼 있으면 바로 사용, 안 되면 손을 들어 주세요
+3. 대화창에 바로 입력하면 준비 완료!
 
 **막히면 이렇게**
 - 답이 영어로 오면 → 끝에 **“한국어로 답해 주세요”**
